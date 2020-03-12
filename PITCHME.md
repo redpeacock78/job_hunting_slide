@@ -18,18 +18,21 @@
 - @size[0.75em](1997年7月8日 生)
 - @size[0.75em](愛媛県松山市 出身)
 - @size[0.75em](京都府京都市 在住)
+
 ---
 
 ### Areas of interest
 
 
 - @size[0.7em](Web・クラウド等の技術)
-  - @size[0.5em](Firebase,GCP,GAS,JavaScript,TypeScript...)
+  - @size[0.5em](Firebase, GCP, GAS, JavaScript, TypeScript...)
 - @size[0.7em](仮想化技術)
   - @size[0.5em](Vagrant,Docker...)
 - @size[0.7em](Linux・コンソール系技術)
-  - @size[0.5em](Shell Script,Bash,Zsh,Debian,CentOS,OpenSUSE...)
+  - @size[0.5em](Shell Script, Bash, Zsh, Debian, CentOS, OpenSUSE...)
 - @size[0.7em](デザイン系技術)
-  - @size[0.5em](Photoshop,Illustrator,ClipStudio,Inkscape,GIMP...)
+  - @size[0.5em](Photoshop, Illustrator, ClipStudio, Inkscape, GIMP...)
 - @size[0.7em](まだ触れたことのない技術)
-  - @size[0.5em](AltJS,Haskell,Nim,PHP,SQL,Java,Kubernetes,AWS,Microsoft Azure,nginx...)
+  - @size[0.5em](AltJS, Haskell, Nim, PHP, SQL, Java, Kubernetes, AWS ,Microsoft Azure, nginx...)
+
+---
