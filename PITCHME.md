@@ -41,12 +41,10 @@
 
 
 - @size[0.75em](<a href="https://github.com/redpeacock78/kyoto-art_news">redpeacock78/kyoto-art_news</a>)
+  - @size[0.5em](これは京都造形芸術大学 在学生専用サイトに配信されている「お知らせ情報」をRSSとして配信するためのもの。)
+  - @size[0.5em](実際の運用にはGoogle Apps Scriptを使用しています。)
 
 <figure style="text-align: center">
-  <p>
   <img src="https://i.imgur.com/XlzcHfn.png" width="70%" align="top">
-    - @size[0.5em](これは京都造形芸術大学 在学生専用サイトに配信されている「お知らせ情報」をRSSとして配信するためのもの。)
-    - @size[0.5em](実際の運用にはGoogle Apps Scriptを使用しています。)
-  </p>
-  <figcaption style="color: grey;font: 10px;}">Feedly上で実際に見た様子</figcaption>
+  <figcaption style="color: grey;font: 10px;">Feedly上で実際に見た様子</figcaption>
 </figure>
