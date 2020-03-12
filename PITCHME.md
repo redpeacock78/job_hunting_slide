@@ -38,5 +38,5 @@
 ---
 
 #### Production
-- [redpeacock78/kyoto-art_news](https://github.com/redpeacock78/kyoto-art_news)
+##### [redpeacock78/kyoto-art_news](https://github.com/redpeacock78/kyoto-art_news)
 ![Feedly](https://i.imgur.com/XlzcHfn.png)
