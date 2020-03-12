@@ -25,7 +25,7 @@
 
 
 - @size[0.7em](Web・クラウド等の技術)
-  - @size[0.5em](Firebase, GCP, GAS, JavaScript, TypeScript...)
+  - @size[0.5em](Firebase, GCP, GAS, HTML5, CSS, JavaScript, TypeScript...)
 - @size[0.7em](仮想化技術)
   - @size[0.5em](Vagrant, Docker, VirtualBox...)
 - @size[0.7em](Linux・コンソール系技術)
