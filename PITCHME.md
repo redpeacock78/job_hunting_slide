@@ -40,5 +40,5 @@
 #### Production
 
 
-- @size[0.5em]([redpeacock78/kyoto-art_news](https://github.com/redpeacock78/kyoto-art_news))
+- @size[0.5em](<a href="https://github.com/redpeacock78/kyoto-art_news">redpeacock78/kyoto-art_news</a>)
 <img src="https://i.imgur.com/XlzcHfn.png" width="70%">
