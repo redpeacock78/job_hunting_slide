@@ -54,6 +54,6 @@
 
 |<img src="https://i.imgur.com/7LbvCIu.png" alt="Operation image diagrams" title="Operation image diagrams"  width="1426px">|<img src="https://i.imgur.com/ylafRbF.png" alt="Operation example" title="Operation example">|
 |:-:|:-:|
-|@[0.5em](実際の各サービスの連携)|@[0.5em](表示されるメッセージ例)|
+|@size[0.5em](実際の各サービスの連携)|@size[0.5em](表示されるメッセージ例)|
 
 
