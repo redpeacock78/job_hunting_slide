@@ -41,7 +41,7 @@
 
 
 - @size[0.5em](<a href="https://github.com/redpeacock78/kyoto-art_news">redpeacock78/kyoto-art_news</a>)
-  - @size[0.4em](これは京都造形芸術大学 在学生専用サイトに配信されている「お知らせ情報」をRSSとして配信するためのもの。)
+  - @size[0.4em](<a href="https://www.kyoto-art.ac.jp/student/">京都造形芸術大学 在学生専用サイト</a>にて配信されている「お知らせ情報」をRSSとして配信するためのもの。)
   - @size[0.4em](実際の運用にはGoogle Apps Scriptを使用してスクレイピング及び配信を行っています。)
 
 |<img src="https://i.imgur.com/XlzcHfn.png" width="55%" align="top">|
@@ -57,5 +57,4 @@
 |<img src="https://i.imgur.com/7LbvCIu.png" alt="Operation image diagrams" title="Operation image diagrams"  width="1426px">|<img src="https://i.imgur.com/ylafRbF.png" alt="Operation example" title="Operation example">|
 |:-:|:-:|
 |@size[0.5em](実際の各サービスの連携)|@size[0.5em](表示されるメッセージ例)|
-
 
