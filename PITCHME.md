@@ -42,6 +42,18 @@
 
 - @size[0.5em](<a href="https://github.com/redpeacock78/kyoto-art_news">redpeacock78/kyoto-art_news</a>)
   - @size[0.4em](これは京都造形芸術大学 在学生専用サイトに配信されている「お知らせ情報」をRSSとして配信するためのもの。)
-  - @size[0.4em](実際の運用にはGoogle Apps Scriptを使用しています。)
+  - @size[0.4em](実際の運用にはGoogle Apps Scriptを使用してスクレイピング及び配信を行っています。)
 
 <img src="https://i.imgur.com/XlzcHfn.png" alt="Feedly上で実際に見た様子" width="60%" align="top">
+
+---
+
+- @size[0.5em](<a href="https://github.com/redpeacock78/kyoto-art_news4discord">redpeacock78/kyoto-art_news4discord</a>)
+  - @size[0.4em](先ほど説明した<a href="https://github.com/redpeacock78/kyoto-art_news">redpeacock78/kyoto-art_news</a>でのRSSから最新情報を取得してDiscordに配信を行うもの。)
+  - @size[0.4em](運用にはGoogle Apps Scripts,Cloudinary, Imgurの3つのサービスを使用しています。)
+
+|<img src="https://i.imgur.com/7LbvCIu.png" alt="Operation image diagrams" title="Operation image diagrams"  width="1426px">|<img src="https://i.imgur.com/ylafRbF.png" alt="Operation example" title="Operation example">|
+|:-:|:-:|
+|実際の各サービスの連携|表示されるメッセージ例|
+
+
