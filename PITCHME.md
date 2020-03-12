@@ -1,6 +1,6 @@
 ### About Me
 
-<div style="text-align: right;line-height: 1;">
+<div style="text-align: right;line-height: 0.7;">
   @size[0.5em](京都造形芸術大学 歴史遺産学科)<br>
   @size[0.5em](齋藤 雄樹)
 </div>
