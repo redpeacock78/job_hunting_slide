@@ -52,7 +52,7 @@
 
 - @size[0.5em](<a href="https://github.com/redpeacock78/kyoto-art_news4discord">redpeacock78/kyoto-art_news4discord</a>)
   - @size[0.4em](先ほど説明した<a href="https://github.com/redpeacock78/kyoto-art_news">redpeacock78/kyoto-art_news</a>でのRSSから最新情報を取得してDiscordに配信を行うもの。)
-  - @size[0.4em](運用にはGoogle Apps Scripts, Cloudinary, Imgurの3つのサービスを使用しています。)
+  - @size[0.4em](運用にはGoogle Apps Script, Cloudinary, Imgurの3つのサービスを使用しています。)
 
 |<img src="https://i.imgur.com/7LbvCIu.png" alt="Operation image diagrams" title="Operation image diagrams"  width="1426px">|<img src="https://i.imgur.com/ylafRbF.png" alt="Operation example" title="Operation example">|
 |:-:|:-:|
