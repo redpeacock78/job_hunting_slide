@@ -27,7 +27,7 @@
 - @size[0.7em](Web・クラウド等の技術)
   - @size[0.5em](Firebase, GCP, GAS, JavaScript, TypeScript...)
 - @size[0.7em](仮想化技術)
-  - @size[0.5em](Vagrant,Docker...)
+  - @size[0.5em](Vagrant, Docker, VirtualBox...)
 - @size[0.7em](Linux・コンソール系技術)
   - @size[0.5em](Shell Script, Bash, Zsh, Debian, CentOS, OpenSUSE...)
 - @size[0.7em](デザイン系技術)
