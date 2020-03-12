@@ -5,6 +5,7 @@
   @size[0.5em](齋藤 雄樹)
 </div>
 ---
+
 ### Personal Information
 
 <div style="text-align: left">
@@ -16,12 +17,14 @@
 - @size[0.75em](愛媛県松山市 出身)
 - @size[0.75em](京都府京都市 在住)
 ---
+
 ### Areas of interest
+
 - Web・クラウド等の技術
   - @size[0.75em](Firebase,GCP,GAS,AWS,AltJS...)
 - 仮想化技術
   - @size[0.75em](Vagrant,Docker,Kubernetes...)
 - Linux・コンソール系技術
-  - @size[0.75em](Shell Script(Bash,Zsh),Debian,CentOS,OpenSUSE...)
+  - @size[0.75em](Shell Script%28Bash,Zsh%29,Debian,CentOS,OpenSUSE...)
 - デザイン系技術
-  - @size[0.75em](Adobe(Photoshop,Illustrator),ClipStudio,Inkscape,GIMP...)
+  - @size[0.75em](Adobe%28Photoshop,Illustrator%29,ClipStudio,Inkscape,GIMP...)
