@@ -27,4 +27,4 @@
 - Linux・コンソール系技術
   - @size[0.75em](Shell Script,Bash,Zsh,Debian,CentOS,OpenSUSE...)
 - デザイン系技術
-  - @size[0.75em](Photoshop,Illustrator),ClipStudio,Inkscape,GIMP...)
+  - @size[0.75em](Photoshop,Illustrator,ClipStudio,Inkscape,GIMP...)
