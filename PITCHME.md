@@ -4,6 +4,7 @@
   @size[0.5em](京都造形芸術大学 歴史遺産学科)<br>
   @size[0.5em](齋藤 雄樹)
 </div>
+
 ---
 
 ### Personal Information
@@ -22,10 +23,13 @@
 ### Areas of interest
 
 - Web・クラウド等の技術
-  - @size[0.75em](Firebase,GCP,GAS,AWS,AltJS...)
+  - @size[0.75em](Firebase,GCP,GAS,JavaScript,TypeScript...)
 - 仮想化技術
-  - @size[0.75em](Vagrant,Docker,Kubernetes...)
+  - @size[0.75em](Vagrant,Docker...)
 - Linux・コンソール系技術
   - @size[0.75em](Shell Script,Bash,Zsh,Debian,CentOS,OpenSUSE...)
 - デザイン系技術
   - @size[0.75em](Photoshop,Illustrator,ClipStudio,Inkscape,GIMP...)
+
+- まだ触れたことのない技術
+  - @size[0.75em](AltJS,Haskell,Nim,PHP,SQL,Java,Kubernetes,AWS,Microsoft Azure,nginx...)
