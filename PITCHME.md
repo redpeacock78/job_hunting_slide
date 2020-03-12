@@ -44,7 +44,7 @@
   - @size[0.4em](これは京都造形芸術大学 在学生専用サイトに配信されている「お知らせ情報」をRSSとして配信するためのもの。)
   - @size[0.4em](実際の運用にはGoogle Apps Scriptを使用してスクレイピング及び配信を行っています。)
 
-|<img src="https://i.imgur.com/XlzcHfn.png" width="60%" align="top">|
+|<img src="https://i.imgur.com/XlzcHfn.png" width="55%" align="top">|
 |:-:|
 |@size[0.5em](Feedly上で実際に見た様子)|
 
