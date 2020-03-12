@@ -33,6 +33,6 @@
 - @size[0.7em](デザイン系技術)
   - @size[0.5em](Photoshop, Illustrator, ClipStudio, Inkscape, GIMP...)
 - @size[0.7em](まだ触れたことのない技術)
-  - @size[0.5em](AltJS, Haskell, Nim, PHP, SQL, Java, Kubernetes, AWS ,Microsoft Azure, nginx...)
+  - @size[0.5em](AltJS, Haskell, Nim, PHP, SQL, Java, Kubernetes, AWS, Microsoft Azure, nginx...)
 
 ---
