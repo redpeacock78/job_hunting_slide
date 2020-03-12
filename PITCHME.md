@@ -22,6 +22,7 @@
 
 ### Areas of interest
 
+
 - @size[0.7em](Web・クラウド等の技術)
   - @size[0.5em](Firebase,GCP,GAS,JavaScript,TypeScript...)
 - @size[0.7em](仮想化技術)
@@ -30,7 +31,5 @@
   - @size[0.5em](Shell Script,Bash,Zsh,Debian,CentOS,OpenSUSE...)
 - @size[0.7em](デザイン系技術)
   - @size[0.5em](Photoshop,Illustrator,ClipStudio,Inkscape,GIMP...)
-
-
 - @size[0.7em](まだ触れたことのない技術)
   - @size[0.5em](AltJS,Haskell,Nim,PHP,SQL,Java,Kubernetes,AWS,Microsoft Azure,nginx...)
