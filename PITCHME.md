@@ -53,7 +53,7 @@
 - @size[0.5em](<a href="https://github.com/redpeacock78/kyoto-art_news4discord">redpeacock78/kyoto-art_news4discord</a>)
   - @size[0.4em](先ほど説明した<a href="https://github.com/redpeacock78/kyoto-art_news">redpeacock78/kyoto-art_news</a>でのRSSから最新情報を取得してDiscordに配信を行うもの。)
   - @size[0.4em](運用にはGoogle Apps Script, Cloudinary, Imgurの3つのサービスを使用しています。)
-  - @size[0.4em](それぞれGAS→RSSの監視, 記事のスレイピング, 通知, Cloudinary→OGP風画像の生成, Imgur→画像の保管・配信となっています。)
+  - @size[0.4em](GAS→RSSの監視, 記事のスレイピング, 通知, Cloudinary→OGP風画像の生成, Imgur→画像の保管・配信となっています。)
 
 |<img src="https://i.imgur.com/7LbvCIu.png" alt="Operation image diagrams" title="Operation image diagrams"  width="1426px">|<img src="https://i.imgur.com/ylafRbF.png" alt="Operation example" title="Operation example">|
 |:-:|:-:|
@@ -72,3 +72,12 @@
   - @size[0.4em](ただこの事柄を調べることによって結果によっては文化財の展示環境などについての指針を提案することが可能になるかもしれない。)
 
 ---
+
+#### Outgoing/Shared
+
+- @size[0.5em](今現在は主にTwitter上での発信やGithubでのContributionが中心)
+- @size[0.5em](時偶、Github Pagesなどに記事を残す)
+  - @size[0.4em](ただ現時点では技術系よりも大学での研究などで調査した事柄を書き残す「備忘録」的立ち位置となっている。)
+- @size[0.5em](Twitterでは主に「#シェル芸」と呼ばれる界隈で活動)
+  - @size[0.4em](そこでの活動を元に<a href="https://github.com/redpeacock78/sushiro">redpeacock78/sushiro</a>や<a href="https://github.com/redpeacock78/exutils">redpeacock78/exutils</a>と言った制作物がある。)
+
