@@ -53,8 +53,20 @@
 - @size[0.5em](<a href="https://github.com/redpeacock78/kyoto-art_news4discord">redpeacock78/kyoto-art_news4discord</a>)
   - @size[0.4em](先ほど説明した<a href="https://github.com/redpeacock78/kyoto-art_news">redpeacock78/kyoto-art_news</a>でのRSSから最新情報を取得してDiscordに配信を行うもの。)
   - @size[0.4em](運用にはGoogle Apps Script, Cloudinary, Imgurの3つのサービスを使用しています。)
+  - @size[0.4em](それぞれGAS→RSSの監視, 記事のスレイピング, 通知, Cloudinary→OGP風画像の生成, Imgur→画像の保管・配信となっています。)
 
 |<img src="https://i.imgur.com/7LbvCIu.png" alt="Operation image diagrams" title="Operation image diagrams"  width="1426px">|<img src="https://i.imgur.com/ylafRbF.png" alt="Operation example" title="Operation example">|
 |:-:|:-:|
 |@size[0.5em](実際の各サービスの連携)|@size[0.5em](表示されるメッセージ例)|
 
+---
+
+#### Graduation Thesis/Dissertation
+
+- @size[0.5em](現在、大学にて文化財科学の分野を選考中)
+- @size[0.5em](文化財における木材と塗装方法の関係性による劣化などに関する研究)
+  - @size[0.4em](現時点では類似する先行研究が見つからない為実質的に第一人者となっている。)
+- @size[0.5em](具体的には木材に塗布された乾性油と呼ばれる油の種類によって光源や環境の違いによって劣化の度合いに変化が生じるのか)
+　　- @size[0.4em](単純に示すと「木材\(数種\)」×「乾性油\(数種\)」×「光源\(数種\)」=「劣化」と言った感じ。)
+
+---
