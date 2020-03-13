@@ -55,7 +55,7 @@
   - @size[0.4em](運用にはGoogle Apps Script, Cloudinary, Imgurの3つのサービスを使用しています。)
   - @size[0.4em](GAS→RSSの監視, 記事のスレイピング, 通知, Cloudinary→OGP風画像の生成, Imgur→画像の保管・配信となっています。)
 
-|<img src="https://i.imgur.com/7LbvCIu.png" alt="Operation image diagrams" title="Operation image diagrams"  width="1426px">|<img src="https://i.imgur.com/ylafRbF.png" alt="Operation example" title="Operation example">|
+|<img src="https://i.imgur.com/7LbvCIu.png" alt="Operation image diagrams" title="Operation image diagrams" width="1426px">|<img src="https://i.imgur.com/ylafRbF.png" alt="Operation example" title="Operation example">|
 |:-:|:-:|
 |@size[0.5em](実際の各サービスの連携)|@size[0.5em](表示されるメッセージ例)|
 
@@ -100,3 +100,15 @@
   - @size[0.4em](そういったスケールの話よりも「何が出来るのか」などの方を重視している為)
 
 --- 
+
+#### What I want to talk about
+
+
+- @size[0.5em](実際にどのような事をされているのか)
+  - @size[0.4em](どのような技術を使われているのか)
+  - @size[0.4em](どのような研究を行われているのか)
+<br>
+- @size[0.5em](実際の環境に即したような開発を経験してみたい)
+  - @size[0.4em](これから就活や研究で資金は必要になって来てしまうのでアルバイトとして収入を得たい)
+  - @size[0.4em](自分自身のスキルアップの向上を考えた上でも一度は経験したい)
+  - @size[0.4em](卒業後の就職などとは切り離した上で触れてみたい)
