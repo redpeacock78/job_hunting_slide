@@ -80,4 +80,4 @@
   - @size[0.4em](ただ現時点では技術系よりも大学での研究などで調査した事柄を書き残す「備忘録」的立ち位置となっている。)
 - @size[0.5em](Twitterでは主に「#シェル芸」と呼ばれる界隈で活動)
   - @size[0.4em](そこでの活動を元に<a href="https://github.com/redpeacock78/sushiro">redpeacock78/sushiro</a>や<a href="https://github.com/redpeacock78/exutils">redpeacock78/exutils</a>と言った制作物がある。)
-- @size[0.5em](実生活上ではLTなどの発表会などの機会もなかったので今後は機会があれば参加してみたいと考えている。)
+- @size[0.5em](実生活上ではLTなどの発表会の機会はなかったので今後は機会があれば参加してみたいと考えている。)
