@@ -63,6 +63,7 @@
 
 #### Graduation Thesis/Dissertation
 
+
 - @size[0.5em](現在、大学にて文化財科学の分野を先行中)
 - @size[0.5em](文化財における木材と塗装方法の関係性による劣化などに関する研究)
   - @size[0.4em](現時点では類似する先行研究が見つからない為結果的に第一人者となっている。)
@@ -75,9 +76,13 @@
 
 #### Outgoing/Shared
 
-- @size[0.5em](今現在は主にTwitter上での発信やGithubでのContributionが中心)
+
+- @size[0.5em](現在は主にTwitter上での発信やGithubでのContributionが中心)
 - @size[0.5em](時偶、Github Pagesなどに記事を残す)
   - @size[0.4em](ただ現時点では技術系よりも大学での研究などで調査した事柄を書き残す「備忘録」的立ち位置となっている。)
 - @size[0.5em](Twitterでは主に「#シェル芸」と呼ばれる界隈で活動)
   - @size[0.4em](そこでの活動を元に<a href="https://github.com/redpeacock78/sushiro">redpeacock78/sushiro</a>や<a href="https://github.com/redpeacock78/exutils">redpeacock78/exutils</a>と言った制作物がある。)
 - @size[0.5em](実生活上ではLTなどの発表会の機会はなかったので今後は機会があれば参加してみたいと考えている。)
+
+---
+
